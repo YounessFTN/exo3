@@ -1,4 +1,12 @@
-# Lancer le projet Python
+# Analyse de données Pokémon
+
+## Source des données
+
+Le fichier `Pokemon.csv` provient de Kaggle : [Pokemon Dataset](https://www.kaggle.com/datasets/abcsds/pokemon)
+
+---
+
+## Lancer le projet
 
 ## Sur Mac
 
